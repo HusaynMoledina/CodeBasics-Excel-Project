@@ -60,5 +60,6 @@ Here, you'll find a summary of the key learnings from the project:
 
 - Conditional formatting
 - Report design principles
+- Lookups (XLookup is King)
 - Goal seek function usage
 - Power Pivot and Power Query applications
